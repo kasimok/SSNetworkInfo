@@ -1,0 +1,3 @@
+module SSNetworkInfo{
+    header "SSNetworkInfo.h"
+}
